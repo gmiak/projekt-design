@@ -5,7 +5,7 @@ Skapa en ny webbplats till en artisten Art Ist, som är new and upcoming inom si
 Det skall vara nytt och fräsch, tidsengligt och det skall skapa intresse.
 Du kan själv välja om du vill att artisten skall vara ung/gammal., hålla på med trolleri eller musik och om det är fiol, harpa eller techno.
 
-##Specifikationer
+### Specifikationer
 1. Webbplatsen skall bestå av en förstasida (minst två kolumner), en about-sida och en blogg med minst tre blogginlägg.
 2. Varje sida skall ha en flash-region med en bild.
 3. Headern skall ha en egen logo och en favicon.
@@ -19,5 +19,11 @@ Du kan själv välja om du vill att artisten skall vara ung/gammal., hålla på 
 11. Temaväljaren skall användas och visa båda tema.
 12. Temat skall fungera responsivt.
 
-##Om Anax Flat
+### Om Anax 
+
+Anax är ett ramverk som ligger till grund för webbplatsen [dbwebb](http://dbwebb.se). Ramverket Anax är byggd med PHP.
+
+Källkoden till Anax hittar du på GitHub : [Anax](http://github.com/mosbth/anax).
+
+Om du vill veta mer om ramverket finns en dokumentation på : [mer om Anax](http://dbwebb.se/anax)
 
